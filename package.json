@@ -9,11 +9,6 @@
 	"dependencies": {
 	},
 	"samples": [
-		{
-			"displayName": "Tests",
-			"description": "test.",
-			"path": "Tests"
-		}
 	],
 	"author": {
 		"name": "tkaria",
