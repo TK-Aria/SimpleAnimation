@@ -1,0 +1,22 @@
+{
+	"name": "com.unity.simpleanimation",
+	"version": "1.0.0",
+	"unity": "2019.1",
+	"displayName": "SimpleAnimation",
+	"description": "explanation",
+	"category": "Animation",
+	"keywords": [],
+	"dependencies": {
+	},
+	"samples": [
+		{
+			"displayName": "Tests",
+			"description": "test.",
+			"path": "Tests"
+		}
+	],
+	"author": {
+		"name": "tkaria",
+		"url": "https://tk3118.hatenablog.com"
+	}
+}
